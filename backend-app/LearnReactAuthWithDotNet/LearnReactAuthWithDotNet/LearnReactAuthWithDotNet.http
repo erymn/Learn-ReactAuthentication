@@ -1,0 +1,6 @@
+@LearnReactAuthWithDotNet_HostAddress = http://localhost:5076
+
+GET {{LearnReactAuthWithDotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
